@@ -5,5 +5,13 @@ font-size: 25px;
 
 .bigerrortext {
 color:black;
+position:absolute;
 font-size: 50px;
+}
+
+
+.errortext {
+color:black;
+position:absolute;
+font-size: 25px;
 }
