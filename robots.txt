@@ -1,4 +1,3 @@
 User-agent: *  
-Disallow: /admin/ 
-Disallow: /*.js  
+Disallow:
 Sitemap: https://cosmicvibestv.github.io/sitemap.xml  
